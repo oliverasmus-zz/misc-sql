@@ -1,2 +1,2 @@
-# misc-sql
+# Miscellaneous SQL Scripts
 Miscellaneous SQL scripts
